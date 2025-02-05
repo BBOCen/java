@@ -10,3 +10,5 @@
 </ul>
 
 <p>Ideal for exploring key Java concepts such as file handling, serialization, and basic user interaction structures.</p>
+
+Note: the code is in Spanish.
