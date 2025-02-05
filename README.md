@@ -1,12 +1,12 @@
-<h2>📂 Proyectos en Java 📂</h2>
+<h2>📂 Java Projects 📂</h2>
 
-<p>Este repositorio contiene una colección de principales proyectos que he realizados en Java, con funcionalidades destacadas como:</p>
+<p>This repository contains a collection of key projects I've developed in Java, featuring functionalities such as:</p>
 
 <ul>
-  <li><strong>Lectura y escritura de archivos:</strong> Implementaciones que manejan datos almacenados en archivos locales.</li>
-  <li><strong>Serialización de objetos:</strong> Proyectos que convierten objetos en un formato adecuado para almacenamiento o transferencia.</li>
-  <li><strong>Interfaz de menú:</strong> Programas interactivos con menús que permiten navegar y ejecutar diversas opciones.</li>
-  <li><strong>Proyectos que contienen todo lo anterior:</strong> Programas interactivos con menús que permiten navegar y ejecutar diversas opciones, serializar obejtos, y cuando se sale de la aplicación, se guardan y se cargan la próxima vez que se ejecute.</li>
+  <li><strong>File reading and writing:</strong> Implementations that handle data stored in local files.</li>
+  <li><strong>Object serialization:</strong> Projects that convert objects into a format suitable for storage or transfer.</li>
+  <li><strong>Menu interface:</strong> Interactive programs with menus that allow navigation and execution of various options.</li>
+  <li><strong>Projects containing all of the above:</strong> Interactive programs with menus that allow navigation, object serialization, and save/load functionality when the application is closed and reopened.</li>
 </ul>
 
-<p>Ideal para explorar conceptos clave de Java, como manejo de archivos, serialización, y estructuras básicas de interacción con el usuario.</p>
+<p>Ideal for exploring key Java concepts such as file handling, serialization, and basic user interaction structures.</p>
